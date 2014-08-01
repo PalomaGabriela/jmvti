@@ -91,3 +91,35 @@ footer {
         height: 70%;
     }
 }
+
+
+#scroll-to-top.displayed{
+-ms-transform:scale(1, 1);
+-webkit-transform:scale(1, 1);
+transform:scale(1, 1);
+opacity:1 !important;
+}
+
+#scroll-to-top{
+position:fixed;
+bottom:20px;
+right:20px;
+width:48px;
+height:48px;
+background: url('http://localhost/pkti/jmvti/img/sprites-1-2.png') no-repeat -84px -18px;
+-ms-transform:scale(0, 0);
+-webkit-transform:scale(0, 0);
+transform:scale(0, 0);
+opacity:0;
+-webkit-transition:all 0.2s ease;
+-moz-transition:all 0.2s ease;
+-o-transition:all 0.2s ease;
+transition:all 0.2s ease;
+}
+@media screen and (-webkit-min-device-pixel-ratio: 2) {
+
+#scroll-to-top{
+background-image:url('http://localhost/pkti/jmvti/img/to-top.png');
+background-size:48px 48px;
+}
+} 
