@@ -26,8 +26,10 @@
       <file leaf-file-name="bootstrap.min.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="107" selection-start="489" selection-end="489" vertical-scroll-proportion="-2.8651686" vertical-offset="1845" max-vertical-offset="15360">
-              <folding />
+            <state line="4" column="107" selection-start="272" selection-end="272" vertical-scroll-proportion="-2.8651686" vertical-offset="1845" max-vertical-offset="14220">
+              <folding>
+                <marker date="1407342141122" expanded="true" signature="109497:109527" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,21 +158,27 @@
     <entry file="file://$PROJECT_DIR$/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="68568" selection-start="68733" selection-end="68733" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="165">
-          <folding />
+          <folding>
+            <marker date="1407342141122" expanded="true" signature="109497:109527" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="68568" selection-start="68733" selection-end="68733" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="165">
-          <folding />
+          <folding>
+            <marker date="1407342141122" expanded="true" signature="109497:109527" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="107" selection-start="489" selection-end="489" vertical-scroll-proportion="-2.8651686" vertical-offset="1845" max-vertical-offset="15360">
-          <folding />
+        <state line="4" column="107" selection-start="272" selection-end="272" vertical-scroll-proportion="-2.8651686" vertical-offset="1845" max-vertical-offset="14220">
+          <folding>
+            <marker date="1407342141122" expanded="true" signature="109497:109527" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
