@@ -16,10 +16,10 @@ $email_address = $_POST['email'];
 $message = $_POST['message'];
 	
 // create email body and send it	
-$to = 'paloma.gs23@gmail.com'; // PUT YOUR EMAIL ADDRESS HERE
+$to = 'janaelmartins@gmail.com'; // PUT YOUR EMAIL ADDRESS HERE
 $email_subject = "JMVTI:  $name"; // EDIT THE EMAIL SUBJECT LINE HERE
-$email_body = "Você recebeu uma nova mensagem.\n\n"."Here are the details:\n\nName: $name\n\nPhone: $phone\n\nEmail: $email_address\n\nMessage:\n$message";
-$headers = "From: noreply@your-domain.com\n";
+$email_body = "Você recebeu uma nova mensagem.\n\n"."Detalhes:\n\nNome: $name\n\nFone: $phone\n\nEmail: $email_address\n\nMensagem:\n$message";
+$headers = "From: suporte@jmvti.com.br\n";
 $headers .= "Reply-To: $email_address";	
 mail($to,$email_subject,$email_body,$headers);
 return true;			
